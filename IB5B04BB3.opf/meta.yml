@@ -1,0 +1,16 @@
+id: IB5B04BB3
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:25:44.480894
+last_modified: 2023-02-08 15:25:44.481019
+source_metadata:
+  title: Tathāgatagarbhasūtra
+  language: en
+bases:
+  DE76:
+    base_file: DE76.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

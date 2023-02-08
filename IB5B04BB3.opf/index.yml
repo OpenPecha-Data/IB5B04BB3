@@ -1,0 +1,72 @@
+id: ece64d404fbc414ca3dbe88c9414d7dd
+annotation_type: index
+revision: '00001'
+annotations:
+  1732be46928141c99c9cf729e5149838:
+    base: DE76.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 179
+    - title: Invocation
+      span:
+        start: 180
+        end: 278
+    - title: 0 Nidāna
+      span:
+        start: 279
+        end: 11132
+    - title: 1. The simile of a tathāgata in a lotus
+      span:
+        start: 11133
+        end: 14434
+    - title: 2. The simile of honey shielded by bees
+      span:
+        start: 14435
+        end: 17245
+    - title: 3. The simile of kernels enclosed by husks
+      span:
+        start: 17246
+        end: 19482
+    - title: 4. The simile of a gold nugget in excrement
+      span:
+        start: 19483
+        end: 22213
+    - title: 5. The simile of a hidden treasure beneath the house of some poor person
+      span:
+        start: 22214
+        end: 26550
+    - title: 6. The simile of a sprout in the seed
+      span:
+        start: 26551
+        end: 29306
+    - title: 7. The simile of a tathāgata image wrapped in rotten rags
+      span:
+        start: 29307
+        end: 32848
+    - title: 8. The simile of the future universal emperor in the womb of a poor,
+        depressed woman
+      span:
+        start: 32849
+        end: 36223
+    - title: 9. The simile of golden figures within burned clay molds
+      span:
+        start: 36224
+        end: 39940
+    - title: 10. Merit from propagating the TGS
+      span:
+        start: 39941
+        end: 45840
+    - title: 11. The story of *Sadāpramuktaraśmi and *Anantaraśmi
+      span:
+        start: 45841
+        end: 55370
+    - title: 12. Ānanda questions the Buddha about the length of time till perfection
+      span:
+        start: 55371
+        end: 58613
+    - title: 13. Colophon
+      span:
+        start: 58614
+        end: 58861
